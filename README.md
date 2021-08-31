@@ -38,7 +38,7 @@ By: Encryit (Encryit#9999) [Server Owner Social Interactive](https://discord.io/
 Contributioner:
 No Server Contributioner
 
-## Version History
+## Changelog
 * 2.0.0
     * Update soon
 * 1.1.9
