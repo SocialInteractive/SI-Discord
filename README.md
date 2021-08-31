@@ -1,10 +1,8 @@
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors][contributors-shield]][https://github.com/SocialInteractive/SI-Discord/graphs/contributors]
+[![Forks][forks-shield]][https://github.com/SocialInteractive/SI-Discord/network/members]
+[![Issues][issues-shield]][https://github.com/SocialInteractive/SI-Discord/issues]
+[![License][license-shield]][https://github.com/SocialInteractive/SI-Discord#license]
 
 
 
