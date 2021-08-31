@@ -19,11 +19,9 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/SocialInteractive/SI-Discord"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/SocialInteractive/SI-Discord"><strong>Working on Updates »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/SocialInteractive/SI-Discord">View Demo</a>
-    ·
     <a href="https://github.com/SocialInteractive/SI-Discord/issues">Report Bug</a>
     ·
     <a href="https://github.com/SocialInteractive/SI-Discord/issues">Request Feature</a>
@@ -38,19 +36,8 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -63,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][Join us]](https://discord.io/socialint)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
